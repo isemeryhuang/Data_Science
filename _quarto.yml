@@ -10,7 +10,7 @@ website:
 
   page-footer: 
     border: true
-    left: "Emery Huang 2025©"
+    left: "Emery Huang 2025©" 
     right: 
       - icon: linkedin
         href: https://www.linkedin.com/in/emeryhuang/
